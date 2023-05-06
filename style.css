@@ -35,7 +35,6 @@ p {
 img {
     width: 100%;
 }
-
 /* end global */
 
 /* start reusable */
@@ -92,7 +91,6 @@ img {
 .has-margin-right {
     margin-right: 5rem;
 }
-
 /* end reusable */
 
 /* start header */
@@ -218,7 +216,6 @@ li {
     font-size: 2rem;
     font-weight: 300;
 }
-
 /* end header */
 
 /* start about */
@@ -274,7 +271,6 @@ li {
 .fa-dribble-square:hover {
     color: #ea4c89;
 }
-
 /* end about */
 
 /* start services */
@@ -316,7 +312,6 @@ li {
     margin: auto;
     transform: rotate(-45deg);
 }
-
 /* end services */
 
 /* start portfolio */
@@ -364,7 +359,6 @@ li {
 .portfolio-description .cta:hover {
     color: #2f67cd;
 }
-
 /* end portfolio */
 
 /* start timeline */
@@ -467,7 +461,6 @@ input[type="submit"]:hover {
     color: #221e3f;
     background-color: #ffe838;
 }
-
 /* end contact */
 
 /* start footer */
@@ -501,7 +494,6 @@ input[type="submit"]:hover {
 .copyright p {
     font-size: 1.4rem;
 }
-
 /* end footer */
 
 /* start animation */
@@ -518,7 +510,6 @@ input[type="submit"]:hover {
         box-shadow: 0 0 0 0 rgba(253, 87, 191, 0);
     }
 }
-
 /* end animation */
 
 /* start media queries */
@@ -579,7 +570,6 @@ input[type="submit"]:hover {
     .timeline .date::after {
         left: -6rem;
     }
-
 }
 
 @media screen and (max-width: 600px) {
@@ -637,9 +627,5 @@ input[type="submit"]:hover {
     .up {
         right: 3rem;
     }
-
-
 }
-
-
 /*end media queries*/
