@@ -1,4 +1,4 @@
-$(document).ready(function () {
+    $(document).ready(function () {
     //When clicking the burger menu it opens the navbar:
     $('.menu-toggler').on('click', function () {
         $(this).toggleClass('open');
